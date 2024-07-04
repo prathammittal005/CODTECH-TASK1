@@ -26,3 +26,4 @@ The divide function checks if the divisor y is zero to avoid division by zero er
 User Interface:
 Provides clear prompts and messages to guide the user through input and output.
 
+![Screenshot (77)](https://github.com/prathammittal005/CODTECH-TASK1/assets/174738393/ca2c81e8-aae0-49b3-8902-8f7264c015ac)
